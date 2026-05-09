@@ -10,7 +10,7 @@ I like building tools that connect language models to real workflows, and I spen
 **Bucknell University** — B.S. Computer Science, Minor in Applied Mathematics
 *Expected May 2027 · GPA 3.50*
 
-Coursework: Data Structures & Algorithms, Algorithmic Design & Analysis, Operating Systems, Networks & Security, Software Engineering & Design, Computer Systems, Programming Language Design, AWS Academy (ML Foundations, ML for NLP)
+Coursework: Data Structures & Algorithms, Algorithmic Design & Analysis, Operating Systems, Networks & Security, Software Engineering & Design, Computer Systems, Programming Language Design, AWS Academy (ML Foundations)
 
 ---
 
